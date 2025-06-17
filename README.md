@@ -36,4 +36,3 @@ Each model was trained and tested using:
 | SVM                 | ~82%     |
 | KNN (k=3)           | ~81%     |
 
-## 📂 Project Structure
